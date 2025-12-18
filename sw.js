@@ -1,7 +1,7 @@
 /* ===========================================================
  * sw.js
  * ===========================================================
- * Copyright 2016 @huxpro
+ * Copyright 2016-2025 Alessia XY Tang
  * Licensed under Apache 2.0
  * service worker scripting
  * ========================================================== */
@@ -20,7 +20,7 @@ const PRECACHE_LIST = [
   "./js/hux-blog.min.js",
   "./js/snackbar.js",
   "./img/icon_wechat.png",
-  "./img/avatar-hux.jpg",
+  "https://lh3.googleusercontent.com/rd-gg-dl/ABS2GSmH6kjDkUimeMu4aYlKi1S51_sJzPo5vFRJjfEvoRIXWWLPF5bPQV_7Xjmt2hfyuafDEbwuyZ0MnMj1yYstqt8pdVWGB8RHRSWnKJB84kyqeSK-jejzNG1ITTI_HlkfuFmbjS71BNncBTXwOoyPOHbFqKyFXZcQeprj5xRP7irE6g3uM0nLhYiyfTkbPImpWBDg4aSbqjZHEcST-za4X7YA9afvBzMtTc_IlMATy_U9XRThpk3zl8nNlLeU8E7SYm8sDKEUxVe-cVH6pmKejYWeqoZ_dOo6q8E9AsgtZYPeVlzBCOEirW051J99StJWwLn4yeUF8AX6g_tcuqNntfZQ00TCQpr6BjEPrkeSqkt9KmcalFHN3ndxJ-SPWwqco7ExPvDmoq1DFX1CG4saRePt88skj72UDCU0AVG52Rebcdy5OA0CLC4Mq4ofHDOu1UhymK5lBIWHI6a3CCkz1xi9dNMFMMEhNVKjBmMU6P0LhNRR--GjuLvlISCFl8m122YSE_-SW2k0GDYNBwphlBJ4_5HRJ2Y7rqkTkvwBpA8sjGTcICXk0B_Or8zJBSrC6hpB9eE00Gps6Mo_OzrOzNXmHuLcK6iLfLR3_mrAArfxTKuFJUDM_zStHJ5v49I-8NwH504hzk4ZllnK2JapRapnPKxdmF0qGpnOBftLxAbQntz0TWCTLVu41ZIoewv6S1rWnJYExiPcJKArmBGUpem6JNc6tEwiVgezEoPIBA3YiW_xPrP1qdI-fZmhG1mrhnXWp6Nj_uV-oeMjrTzcTLcQRQ9EbSftmoIHqXN37KMKTUy-IHtYUL62woZTVdZv0C6BS_8xGskOuOlH5VvRHm5Ci8Un45A0Kv_nY8wZA58H1yY4Qzy7ACpUH984pZwJgOcnANyNyuSUgHnwgEO4V03qp7gEdVXd1D5v55E_XN_npUD-aSuPvOWFhk5EjzyeCyT5I42C9qQTTyw3ai49KZFu6Is219TuYikxDI4Id76k8sRCDVLiLW8AQw4StOek4zbVDa0v-X_lAmDAq9T3_8LY3PygXM7kHHy5jBJkySMk13vlYBgS0mJ_xDbTMcwIdcl8Cj90bPFUOnRZt9-u3X11ijZEJB35LikgbXNJg-F5P-P67muzLHlJI86GpzmF6VraGx4oQi5cP3pmpw5GtnKT5vai5JE9X-BLfw5tlT7FU6tPQrMwiFw",
   "./img/home-bg.jpg",
   "./img/404-bg.jpg",
   "./css/hux-blog.min.css",
